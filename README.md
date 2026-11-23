@@ -1,6 +1,9 @@
 # ULTRON: A Wheeled-Bipedal Mobile Robot
-> Team project (12 members, German International University, 2026).
+
+> Team project (12 members, German International University, 2026). Original repository: https://github.com/Weli1812/Wheeled-Bipedal-mobile-Robot
+>
 > My contribution: co-developed LQR control (simulation) and the embedded architecture; designed the power system independently.
+
 This repository is an end-to-end development workspace for a wheeled-bipedal robot, covering:
 
 - modeling and control design in MATLAB/Simulink,
